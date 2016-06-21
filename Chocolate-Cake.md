@@ -21,3 +21,11 @@
 * 2 eggs
 
 * 1 teaspoon vanilla
+
+
+==Directions==
+
+#Heat oven to 30 degrees
+#Mix dry ingredients together thoroughly 
+#Add in wet ingredients and stir thoroughly
+#Bake for 30-35 minutes 
