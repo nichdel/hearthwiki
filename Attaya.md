@@ -1,6 +1,6 @@
 ==Implements==
 
-* Small teapot
+* Small teapot (Short and stout)
 * Two small, tall glass cups
 * A plate
 
