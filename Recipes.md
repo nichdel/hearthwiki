@@ -1,4 +1,3 @@
-abc
 
 [[Amaretto Truffles]]
 
