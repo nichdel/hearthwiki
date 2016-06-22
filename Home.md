@@ -2,4 +2,4 @@
 
 [[Sandbox]]
 
-Orange gollum
+A normal main page
