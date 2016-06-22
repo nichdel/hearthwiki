@@ -1,2 +1,2 @@
 # hearthwiki
-A gollum wiki
+A kinda lame gollum wiki
