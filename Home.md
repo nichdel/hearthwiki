@@ -1,3 +1,3 @@
 [[Recipes]]
 
-Testing auto-update
+one more test
