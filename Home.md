@@ -2,6 +2,4 @@
 
 [[Sandbox]]
 
-Made via gollum
-
-man
+Red update, via gollum
