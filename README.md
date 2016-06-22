@@ -1,1 +1,2 @@
 # hearthwiki
+A gollum wiki
