@@ -1,5 +1,3 @@
 [[Recipes]]
 
-[[Sandbox]]
-
-Testing auto-update
+one more test
