@@ -20,4 +20,4 @@ Cut into cubes, bake for 15-20 minutes. 350
 
 # Spinach
 
-Steam/boil in about half an inche of water, covered.
+Steam/boil in about half an inch of water, covered. About ~5 minutess or until desirably wilted.
