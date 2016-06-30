@@ -2,17 +2,33 @@
 
 "For each cup required: place 1 tablespoon lemon juice or vinegar in a glass measuring cup. Add in soy milk to equal 1 cup. Stir and let stand for 10 minutes." ~http://www.goodbaker.com/qa10.html
 
-# Moist Chocolate Cake:
-    1 cup Earth Balance Coconut Spread (or 2 sticks of dairy free margarine)
-    ¼ cup cocoa powder
-    1 cup hot water
-    2 cups all-purpose unbleached flour
-    1½ cups sugar
-    ½ teaspoon salt
-    1 teaspoon baking soda
-    ½ cup soy buttermilk (soy milk mixed with 1 teaspoon apple cider vinegar)
-    ½ cup whipped firm (or extra firm) tofu (place tofu in a blender or food processor and pulse until smooth)
-    1 teaspoon vanilla
+# Cake:
+V1
+
+* 1 cup Earth Balance Coconut Spread (or 2 sticks of dairy free margarine)
+* ¼ cup cocoa powder
+* 1 cup hot water
+* 2 cups all-purpose unbleached flour
+* 1½ cups sugar
+* ½ teaspoon salt
+* 1 teaspoon baking soda
+* ½ cup soy buttermilk (soy milk mixed with 1 teaspoon apple cider vinegar)
+* ½ cup whipped firm (or extra firm) tofu (place tofu in a blender or food processor and pulse until smooth)
+* 1 teaspoon vanilla
+
+V2
+
+* 2 cups all-purpose flour
+* 2 cups sugar
+* 1 teaspoon baking soda
+* 1/2 teaspoon salt
+* 1 cup water
+* 3/4 cup butter, cubed
+* 1/2 cup chunky peanut butter
+* 1/4 cup canola oil
+* 2 large eggs
+* 1/2 cup buttermilk
+* 1 teaspoon vanilla extract 
 
 # Chocolate Pecan Frosting:
     1 stick dairy-free margarine (1/2 cup)
