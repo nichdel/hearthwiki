@@ -128,6 +128,8 @@ abc
 
 [[Peanut Butter Oatmeal]]
 
+[[Recipes/Peanut Butter Sheetcake]]
+
 [[Peanut Stew]]
 
 [[Peppermint Bark]]
