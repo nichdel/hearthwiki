@@ -1,4 +1,4 @@
-==Ingredients==
+# Ingredients
 
 * 5 tablespoons of quick oats ($0.10)
 
@@ -16,12 +16,12 @@
 
 ** Replaceable with half a banana
 
-==Directions==
+# Directions
 
-# Mix quick oats, baking powder, cinnamon, and brown sugar.
-# Add in water, oil, and apple sauce
-# Mix well
-# Microwave for 2 minutes
+* Mix quick oats, baking powder, cinnamon, and brown sugar.
+* Add in water, oil, and apple sauce
+* Mix well
+* Microwave for 2 minutes
 
 About $0.38 per serving 
 
